@@ -1,2 +1,2 @@
 # rpz_homework
-Tarasov Maxym
+Tarasov Maxim
